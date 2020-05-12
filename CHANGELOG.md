@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file, in reverse 
 
 ### Changed
 
-- Nothing.
+- [#24](https://github.com/laminas/laminas-soap/pull/24) updates the minimum supported version of PHP to 7.2.
 
 ### Deprecated
 
